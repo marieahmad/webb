@@ -5,8 +5,17 @@
   margin-top: 10px;
   padding: 30px;
 }
-.next-page{
+.next-page-one{
   height: 800px;
   width: 100%;
   background-color: #45969b;
+}
+.about-logo-style{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+.about-text{
+  text-align: center
 }
